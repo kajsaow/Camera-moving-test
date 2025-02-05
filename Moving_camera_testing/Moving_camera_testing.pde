@@ -10,7 +10,7 @@ void setup() {
 
   fullScreen();
   //size(500, 500);
-  background(150);
+  background(180);
 
   camera = new Camera(5);
   b = new Background(0, 0);
